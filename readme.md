@@ -1,3 +1,3 @@
 # P-REXZ
 The P-REXZ is a cantilevered CoreXZ 3D Printer with a polar bed.
-![Image of the P-REXZ](https://github.com/Armchair-Engineering/P-REXZ/blob/main/Images/P-REXZv51.png)
+![Image of the P-REXZ](https://github.com/Armchair-Engineering/P-REXZ/blob/main/Images/PREX.png)
