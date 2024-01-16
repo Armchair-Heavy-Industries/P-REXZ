@@ -9,3 +9,6 @@ Project Leads: Derpimus, Corvid, and Bwnance
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
 ![Image of the P-REXZ](https://github.com/Armchair-Engineering/P-REXZ/blob/main/Images/P-REXZ-v370.png)
+
+
+Thank you for T-Laser for the belt path inspiration https://github.com/FiCacador/Tlaser
